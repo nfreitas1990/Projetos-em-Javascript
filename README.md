@@ -4,7 +4,7 @@
 
 
 Conhecimento superficial na linguagem Javascript. <br>
-As aplicações aqui apresentadas foram desenvolvidas durante cursos introdutórios utilizando o VSCode.
+As aplicações aqui apresentadas foram desenvolvidas durante cursos introdutórios.
 <br></br>
 ## Projeto 1: Calculadora de Índice de Massa Corporal (IMC)
 Calculadora Desenvolvida no MiniCamp XPE para a Aquisição do Certificado do curso DEV & DATA. A linguagem Javascript foi utilizado em conjunto com CSS e HTML. O Modelo de Objeto de Documento (DOM) foi utilizado para a interface de programação.<br></br>

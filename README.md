@@ -1,7 +1,8 @@
 # Aplicações com Javascript | CSS | HTML
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=plastic&logo=visual%20studio%20code&logoColor=blue)
-![Javascript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=F7DF1E)<br></br>
-
+![Javascript](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-black?style=plastic&logo=html5&logoColor=red)
+![CSS](https://img.shields.io/badge/CSS-black?&style=plastic&logo=css3&logoColor=blue)
 
 Conhecimento superficial na linguagem Javascript. <br>
 As aplicações aqui apresentadas foram desenvolvidas durante cursos introdutórios.
